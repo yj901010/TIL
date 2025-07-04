@@ -10,8 +10,8 @@
 
 ## 분류 (GoF 23가지 패턴 기준)
 * 가장 널리 알려진 디자인 패턴은 Gang of Four(GoF)라고 불리는 네 명의 저자가 쓴 책에 "Design Patterns: Elements of Reusable Object-Oriented Software" 책에 소개된 23가지 패턴이다. 이 패턴은 크게 세 가지의 범주로 나뉜다.
-* 1. **생성 패턴(Creational Patterns)**: 객체 생성과 관련된 패턴
-  2. **구조 패턴(Structural Patterns)**: 클래스와 객체를 조합하여 더 큰 구조를 만든느 방법과 관련된 패턴
-  3. **행위 패턴(Behavioral Patterns)**: 객체들의 상호작용 및 책임 분배와 관련된 패턴
+1. **생성 패턴(Creational Patterns)**: 객체 생성과 관련된 패턴
+2. **구조 패턴(Structural Patterns)**: 클래스와 객체를 조합하여 더 큰 구조를 만든느 방법과 관련된 패턴
+3. **행위 패턴(Behavioral Patterns)**: 객체들의 상호작용 및 책임 분배와 관련된 패턴
 
 하지만 디자인 패턴은 만능 해결책이 아니며, 모든 상황에 무조건 적용해야 하는 것은 아니다. 상황에 따라 적절히 선택해서 사용하는 설계 방법론이다. 패턴에 집착하기보다는, 왜 해당 패턴이 효율적인지 이해하고 필요할 때 적절하게 활용하는 것이 중요하다.
