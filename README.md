@@ -8,5 +8,5 @@
 ---
 
 ## Desgin Pattern
-[디자인패턴이란?](./desginpattern/Why Desgin Pattern.md)
+[디자인패턴이란?](./desginpattern/Why_Desgin_Pattern.md)
 ---
